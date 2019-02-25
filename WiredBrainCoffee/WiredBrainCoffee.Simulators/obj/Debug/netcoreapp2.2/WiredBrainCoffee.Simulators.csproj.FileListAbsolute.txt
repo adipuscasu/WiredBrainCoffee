@@ -1,0 +1,9 @@
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\bin\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.deps.json
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\bin\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.dll
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\bin\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.pdb
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.csprojAssemblyReference.cache
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.csproj.CoreCompileInputs.cache
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.AssemblyInfoInputs.cache
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.AssemblyInfo.cs
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.dll
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.Simulators\obj\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.pdb
