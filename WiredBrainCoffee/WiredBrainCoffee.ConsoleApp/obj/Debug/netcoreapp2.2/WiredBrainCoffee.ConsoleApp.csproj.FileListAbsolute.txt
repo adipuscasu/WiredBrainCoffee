@@ -1,0 +1,14 @@
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.deps.json
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.runtimeconfig.json
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.runtimeconfig.dev.json
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.dll
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.pdb
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.dll
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\bin\Debug\netcoreapp2.2\WiredBrainCoffee.Simulators.pdb
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.csprojAssemblyReference.cache
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.AssemblyInfo.cs
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.csproj.CopyComplete
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.dll
+D:\Projects\WiredBrainCoffee\WiredBrainCoffee\WiredBrainCoffee.ConsoleApp\obj\Debug\netcoreapp2.2\WiredBrainCoffee.ConsoleApp.pdb
